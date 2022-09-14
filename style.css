@@ -1,0 +1,20 @@
+body {
+  background-color: aqua;
+  color: rgb(177, 8, 112);
+  font-size: 50px;
+}
+
+.white-font {
+  color: white;
+}
+
+.head {
+  margin-top: 100px;
+}
+.head {
+  text-align: center;
+}
+
+.head2 {
+  text-align: center;
+}
