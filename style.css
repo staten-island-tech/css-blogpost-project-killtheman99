@@ -1,5 +1,5 @@
 body {
-  background-color: aqua;
+  background-color: white;
   color: rgb(177, 8, 112);
   font-size: 50px;
 }
@@ -9,12 +9,14 @@ body {
 }
 
 .head {
-  margin-top: 100px;
-}
-.head {
-  text-align: center;
+  height: 10vh;
 }
 
-.head2 {
+.background {
+  background-image: url(img/mythology.jpg);
+  color: black;
+  padding: 5px 0px;
+  background-position: center;
+  background-size: cover;
   text-align: center;
 }
