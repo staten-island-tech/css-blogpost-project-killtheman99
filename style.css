@@ -1,9 +1,9 @@
 body {
-  background-color: white;
+  background-color: rgb(170, 179, 176);
   color: rgb(177, 8, 112);
-  font-size: 50px;
+  font-size: 30px;
+  font-family: "Raleway", sans-serif;
 }
-
 .white-font {
   color: white;
 }
@@ -12,11 +12,14 @@ body {
   height: 10vh;
 }
 
-.background {
-  background-image: url(img/mythology.jpg);
+.parent {
   color: black;
   padding: 5px 0px;
   background-position: center;
   background-size: cover;
   text-align: center;
+}
+.beast {
+  height: 70vh;
+  width: 25vw;
 }
