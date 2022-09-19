@@ -1,6 +1,6 @@
 body {
   background-color: rgb(170, 179, 176);
-  color: rgb(177, 8, 112);
+  color: black;
   font-size: 30px;
   font-family: "Raleway", sans-serif;
 }
@@ -19,7 +19,26 @@ body {
   background-size: cover;
   text-align: center;
 }
+
+.child3 {
+  text-align: left;
+}
 .beast {
   height: 70vh;
   width: 25vw;
+}
+
+.first {
+  width: 30vw;
+  font-size: 20px;
+}
+
+.parent2 {
+  margin-left: 1cm;
+}
+
+.thor1 {
+  height: 70vh;
+  width: 25vw;
+  margin-left: 1cm;
 }
