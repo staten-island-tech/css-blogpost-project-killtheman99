@@ -4,9 +4,6 @@ body {
   font-size: 30px;
   font-family: "Raleway", sans-serif;
 }
-.white-font {
-  color: white;
-}
 
 .head {
   height: 10vh;
@@ -15,30 +12,27 @@ body {
 .parent {
   color: black;
   padding: 5px 0px;
-  background-position: center;
   text-align: center;
 }
 
-.beast {
+.image {
   width: 400px;
+  height: 600px;
 
-  padding: 75px;
   background-color: black;
-}
-
-.thor1 {
-  width: 400px;
-
-  padding: 75px;
-  background-color: black;
-}
-
-.nazi {
-  width: 400px;
-
-  padding: 75px;
-  background-color: black;
+  margin: 30px auto;
 }
 .images {
   text-align: center;
+}
+
+.title {
+  font-size: 50px;
+  font: bolder;
+}
+
+.caption {
+  width: 400px;
+  text-align: center;
+  margin: 50px auto;
 }
